@@ -14,7 +14,7 @@ namespace Project_George
             #endif  
             )]TimerInfo myTimer, ILogger log)
         {
-            log.LogInformation($"C# Timer trigger function executed at: {DateTime.Now}");
+            log.LogInformation($" Man is the only animal that can never be satisfied");
         } 
 
     }
